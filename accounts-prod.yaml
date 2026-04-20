@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to Krishna9787 Bank accounts related local APIs"
+  contactDetails: 
+    name: "XYZ - Prod Lead"
+    email: "abc@xyz.com"
+  onCallSupport:
+    - (555) 555-9876
+    - (555) 523-9876

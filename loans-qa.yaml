@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+loans:
+  message: "Welcome to Krishna9787 bank loans related local APIs"
+  contactDetails:
+    name: "KK Kad - QA Lead Config Server"
+    email: "xyz@abc.com"
+  onCallSupport:
+    - (555) 523-1234
+    - (555) 523-1345

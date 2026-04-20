@@ -1,0 +1,10 @@
+build:
+  version: 2.4
+cards:
+  message: "Welcome to Krishna9787 bank cards related local APIs"
+  contactDetails:
+    name: "test config server"
+    email: "abc@xyz.com"
+  onCallSupport:
+    - (555) 532-1245
+    - (555) 533-1456
