@@ -5,7 +5,7 @@ loans:
   message: "Welcome to Krishna9787 bank loans related local APIs"
   contactDetails:
     name: "KK Kad - Prod Lead Config Server"
-    email: "xyz@abc.com"
+    email: "{cipher}e82737bc77dd2be7167ee06b04620fab4d6d0d877fa281239ec8aa10f67460f9"
   onCallSupport:
     - (555) 523-1234
     - (555) 523-1345
