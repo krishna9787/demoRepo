@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "Welcome to Krishna9787 Bank accounts related local APIs"
+  message: "Welcome to Krishna9787 Bank accounts webhook related local APIs"
   contactDetails: 
     name: "John Doe - Developer"
     email: "{cipher}e82737bc77dd2be7167ee06b04620fab4d6d0d877fa281239ec8aa10f67460f9"

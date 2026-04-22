@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 accounts:
-  message: "Welcome to Krishna9787 Bank accounts related local APIs"
+  message: "Welcome to Krishna9787 Bank accounts webhook related local APIs"
   contactDetails: 
     name: "XYZ - Prod Lead"
     email: "{cipher}ca4a617c360d69566c4c62315f0f238bc2674bd152627803f69e7ec28fec9571"
